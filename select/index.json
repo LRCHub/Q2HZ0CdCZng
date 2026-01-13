@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蒼氓",
+  "base_artist": "山下達郎",
+  "createdAt": "2026-01-13T09:13:00.706767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蒼氓",
+      "artist": "山下 達郎",
+      "has_synced": false,
+      "path": "select/pl_01_蒼氓_山下_達郎.txt"
+    }
+  ]
+}
